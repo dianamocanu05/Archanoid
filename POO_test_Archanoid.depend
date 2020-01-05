@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1578228373 source:c:\users\hp\desktop\clearning\poo_test_archanoid\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	"Brick.h"
+	"Player.h"
+	"Ball.h"
+
+1578226909 c:\users\hp\desktop\clearning\poo_test_archanoid\brick.h
+	<graphics.h>
+	<winbgim.h>
+	"Rect.h"
+	<vector>
+
+1578226909 c:\users\hp\desktop\clearning\poo_test_archanoid\rect.h
+	<graphics.h>
+	<winbgim.h>
+
+1578227154 c:\users\hp\desktop\clearning\poo_test_archanoid\player.h
+	"Rect.h"
+
+1578228145 c:\users\hp\desktop\clearning\poo_test_archanoid\ball.h
+	<graphics.h>
+	<winbgim.h>
+
